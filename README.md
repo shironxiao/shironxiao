@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ronald-sevilla-124081190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ronald-sevilla-124081190" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/25287414/shiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/25287414/shiron" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25287414/shiron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/25287414/shiron" height="30" width="40" /></a>
 <a href="https://fb.com/ronald sevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronald sevilla" height="30" width="40" /></a>
 </p>
 
