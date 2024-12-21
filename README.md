@@ -1,4 +1,4 @@
-
+![Header](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Ronald Sevilla</h1>
 <h3 align="center">A Novice Full-Stack Developer: Eager to Learn and Build.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
